@@ -1,4 +1,4 @@
-name: mdbook deploy github pages
+name: mdbook deploy github pages 
 
 on:
   push:
